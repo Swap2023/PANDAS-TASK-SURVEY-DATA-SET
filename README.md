@@ -14,7 +14,7 @@
 12 - Create a dataframe by performing a group by over age_group and finding the count of total samples for each age_group that opted for the JD(U) party in Vote_Now. 
 13 - Join/Merge the two dataframes from questions 12 and 11 with the common column as age_group.
 **
-The commands that are used in the video -
+The commands that are used in the group -
 # head( )
 # unique ( )
 # nunique ( )
